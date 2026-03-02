@@ -6,7 +6,7 @@ subtitle: <a href='epfl.ch'>EPFL</a>.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: mj_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Lausanne, CH</p>
