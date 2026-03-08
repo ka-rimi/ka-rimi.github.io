@@ -1,115 +1,121 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Kian (Mohammad) Karimi
+  label: IC Design Engineer | Electronic Engineer
+  email: karimi_mj@outlook.com
+  location: Lausanne, VD
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: He received the Bachelor's degree in Electrical Engineering with a major of Electronics from Sharif University of Technology in 2019. He is currently pursuing the Ph.D. degree with the department of electrical engineering, EPFL, Lausanne, Switzerland. His current research interests include RF CMOS design, low-power analog circuits, and wireless power transmission in biomedical applications.
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
+    # - network: X
+    #   username: AlbertEinstein
     - network: GitHub
-      username: example
+      username: ka-rimi
     - network: LinkedIn
-      username: example
+      username: mjk97
 
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+  # address:
+  #   street: 2712 Broadway St
+  #   city: San Francisco
+  #   region: California
+  #   postalCode: CA 94115
+  #   countryCode: US
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
+      - institution: Swiss Federal Institute of Technology Lausanne (EPFL)
+        location: Lausanne
+        # url: https://www.epfl.ch/
+        area: Electrical Engineering
         studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
-        highlights:
-          - Description 1.
-          - Description 2.
+        start_date: 2020
+        end_date: 2024
+        # score: ""
+        # courses: "Theory of Relativity"
+        # highlights:
+        #   - Description 1.
+        #   - Description 2.
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
+      - institution: Sharif University of Technology
+        location: Tehran
+        area: Electrical Engineering
+        studyType: B.Sc.
+        start_date: 2015
+        end_date: 2019
+        # highlights:
+        #   - Description 1.
+        #   - Description 2.
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: ChipIC Microelectronics GmbH
+        position: Analog IC Design Engineer
+        location: Basel
+        start_date: 2024
+        end_date: Now
+        # summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+        # highlights:
+        #   - Relativity
+        #   - Description 2.
+
+      - company: RFIC Group, EPFL
+        position: IC Design Engineer Research Assistant
+        location: Lausanne
+        start_date: 2020
+        end_date: 2024
+
+      - company: Crouse Company, Automotive R&D hardware department
+        position: Internship
+        location: Tehran
+        start_date: 2018
+        end_date: 2018
+
+      - company: EPFL
+        position: Supervisor of Master Researchers
+        location: Lausanne
+        start_date: 2021
+        end_date: 2023
         highlights:
-          - Relativity
-          - Description 2.
-
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
-
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
+          - 2 Master thesis and 3 semester projects in Analog IC and HW design.
+          - Teaching CMOS IC design in TSMC/UMC 180 nm, layout design in Cadence & criteria for tapeout.
 
     Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - company: EPFL
+        position: Teaching Experience
+        location: Lausanne
+        start_date: 2020
+        end_date: 2023
+        summary: 
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - Lab in EDA-Based Design and Cadence Virtuoso, TA, Master's course
+          - Bioelectronics & Microelectronics, Analog Circuits for Biochip, TA, Master's course 
+          - IC Design II, TA, Bachelor's course
 
     Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - title: Travel Grant Award
+        date: 2024
+        awarder: IEEE Symposium on Circuits and Systems (LASCAS) 2024, Uruguay
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+      - title: Travel Grant Award
+        date: 2022
+        url: https://2022.ieee-biocas.org/site/mypage.aspx?pid=31&lang=en&sid=1419
+        awarder: IEEE Biomedical Circuit and System (BioCAS) 2022, Taiwan
+
+      - title: Best Poster Award
+        date: 2022
+        awarder: EPFL EDMI Research Day
+      
+      - title: Admission and Scholarship for Ph.D.
+        date: 2019
+        awarder: Columbia University, University of Michigan, USC, UBC
+      
+      - title: Elite scholarship
+        date: 2016-2019
+        awarder: National Elite Institute
+      
+      - title: Ranked 100th out of +200,000 participants in the Iranian nationwide universities entrance exam for a B.Sc degree.
+        date: 2015
+        awarder: National Organization of Educational Testing
+
 
     Publications:
       - title: Zur Elektrodynamik bewegter Körper
@@ -137,17 +143,42 @@ cv:
         summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
 
     Skills:
-      - name: Physics
-        level: Master
+      - name: Circuit and System Design
+        icon: fa-solid fa-gear
+        keywords: "Analog/RF/mixed-signal circuit design."
+      - name: EDA tools
+        icon: fa-solid fa-wave-square
+        keywords: "Cadence Virtuoso & Layout | Advanced Design System (ADS) | Hspice & LTSpice."
+      - name: Design Kits
+        icon: fa-solid fa-microchip
+        keywords: "SMIC 180nm | TSMC 180 nm & 40 nm | UMC 180 & 65 nm."
+      - name: PCB Design
+        icon: fa-solid fa-robot
+        keywords: "Altium Designer | KiCAD | EasyEDA."
+      - name: Wafer Test
+        icon: fa-solid fa-bolt
+        keywords: "CP Test Pattern .asc & .vcd | Advantest T6373."
+      - name: Antenna
+        icon: fa-solid fa-plug
+        keywords: "Coil design for bio-implants | HFSS/MAXWELL electromagnetic simulation."
+      - name: Programming
+        icon: fa-solid fa-laptop
+        keywords: "MATLAB, Simulink, C++, Python (applied)."
+      - name: Tools
+        icon: fa-solid fa-gear
+        keywords: "LaTeX, Microsoft Office, Adobe Illustrator, Blender."
+      - name: Soft Skills
         icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        keywords: "Technical documentation, attention to detail, problem-solving, intercultural communication."
+
 
     Languages:
-      - name: German
-        summary: "Native speaker"
-
       - name: English
         summary: "Fluent"
+      - name: French
+        summary: B1 FIDE
+      - name: Persian
+        summary: Native speaker
 
     Interests:
       - name: Physics
