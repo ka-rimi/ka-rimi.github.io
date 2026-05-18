@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-01'
+  last_updated: '2026-05-18'
 papers:
   Ps0WcM4AAAAJ:2osOgNQ5qMEC:
     citations: 9
@@ -34,7 +34,7 @@ papers:
     title: System-Level Modeling
     year: '2025'
   Ps0WcM4AAAAJ:Y0pCki6q_DkC:
-    citations: 34
+    citations: 35
     title: Wirelessly powered and bi-directional data communication system with adaptive conversion chain for multisite biomedical implants over single inductive link
     year: '2024'
   Ps0WcM4AAAAJ:YsMSGLbcyi4C:
@@ -54,7 +54,7 @@ papers:
     title: "An offset\u2010enhanced active rectifier with delay compensated active diodes for wirelessly powered biomedical implants"
     year: '2024'
   Ps0WcM4AAAAJ:qjMakFHDy7sC:
-    citations: 7
+    citations: 8
     title: A 13.56 MHz active rectifier with digitally-assisted and delay compensated comparators for biomedical implantable devices
     year: '2023'
   Ps0WcM4AAAAJ:roLk4NBRz8UC:
@@ -62,11 +62,11 @@ papers:
     title: System-On-Chip Integration
     year: '2025'
   Ps0WcM4AAAAJ:u-x6o8ySG0sC:
-    citations: 9
+    citations: 10
     title: System-level modeling of a safe autonomous closed-loop epileptic seizure control implant
     year: '2021'
   Ps0WcM4AAAAJ:u5HHmVD_uO8C:
-    citations: 151
+    citations: 155
     title: 'Wireless power and data transmission for implanted devices via inductive links: A systematic review'
     year: '2021'
   Ps0WcM4AAAAJ:ufrVoPGSRksC:
